@@ -9,7 +9,7 @@ Your main project is a single evolving case study:
 ## What you need
 - Python 3 installed
 - Git installed
-- A GitHub account
+- A GitHub account (your normal account is fine—inviting the instructor only exposes this repo. If you prefer extra separation, feel free to create a dedicated account just for the course.)
 - (Recommended) VS Code + Python extension
 
 ## How the course works (self-paced)
